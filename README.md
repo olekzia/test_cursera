@@ -1,3 +1,4 @@
 # test_cursera
 
-Testowe repozytorium
+Coursera test repository
+
